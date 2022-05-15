@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##############################################################################
 # Content
 ##############################################################################
@@ -190,3 +191,6 @@ cdn:
   font_awesome: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css
   justified_gallery_css: https://cdnjs.cloudflare.com/ajax/libs/justifiedGallery/3.8.1/css/justifiedGallery.min.css
   justified_gallery_js: https://cdnjs.cloudflare.com/ajax/libs/justifiedGallery/3.8.1/js/jquery.justifiedGallery.min.js
+=======
+theme: jekyll-theme-cayman
+>>>>>>> fd92336bdfcd22af9dc25de299b44b993d2eea9c
